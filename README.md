@@ -1,6 +1,8 @@
 # _tara skiba_
 <span style="color:white">home of tara skiba's professional work</span>
 
+<img src="https://profile-counter.glitch.me/taraskiba/count.svg" alt="Visitor Count"/>
+
 _100% not responsible if your computer breaks :)_ //
 <span style="color:white">thanks for checking my site out!</span>
 
